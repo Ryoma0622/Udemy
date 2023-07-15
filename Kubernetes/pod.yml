@@ -12,5 +12,5 @@ spec:
   volumes:
     - name: storage
       hostPath:
-        path: /Users/jg20022/src/github.com/Ryoma0622/Udemy/Kubernetes/data/storage
+        path: /Users/jodoi/src/github.com/Ryoma0622/Udemy/Kubernetes/data/storage
         type: Directory
